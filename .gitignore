@@ -1,0 +1,5 @@
+intro-to-ds-lectures/
+IntroToDataSciences
+.env
+__pycache__/
+*.pyc
